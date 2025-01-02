@@ -1,0 +1,5 @@
+For Test Case 1:
+Calculated constant term (c) = 42
+
+For Test Case 2:
+Calculated constant term (c) = 12345
